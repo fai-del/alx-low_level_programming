@@ -1,15 +1,14 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * main - check the code
+ * Return: Always 0
  */
 
 int main(void)
 {
+
 int r;
-int _islower(int c);
 
 r = _islower('H');
 _putchar(r + '0');
